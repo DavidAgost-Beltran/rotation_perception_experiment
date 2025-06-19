@@ -26,8 +26,7 @@ The project includes:
 📄 requirements.txt
 📄 README.md
 
-csharp
-Copiar código
+
 
 ## Dependencies
 
@@ -35,7 +34,8 @@ Install required libraries using:
 
 ```bash
 pip install -r requirements.txt
-Citation
+
+## Citation
 If you use this code or analysis in your research, please cite:
 
 Agost Beltrán, D. (2025). Perceptual Sensitivity to Rotational Differences in Natural Images. [AIPR2025].
