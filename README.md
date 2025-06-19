@@ -33,17 +33,11 @@ The project includes:
   
   *Plot MLDS perceptual curves and visualize inter-image variability.*
 
-- [02_compare_rmse_and_perception.ipynb](notebooks/02_compare_rmse_and_perception.ipynb)  
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/your-repo/blob/main/notebooks/02_compare_rmse_and_perception.ipynb)  
+- [02_Reaction_time_and_psychometric_curve_plots.ipynb.ipynb](notebooks/02_compare_rmse_and_perception.ipynb)  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mM3OcdC5-MD0HoFRLxlaFWBUFyVS79_q#scrollTo=Q451qSp-jP5u)  
   *Compare accumulated RMSE with perceptual scaling curves.*
 
-- [03_fit_reaction_time_distributions.ipynb](notebooks/03_fit_reaction_time_distributions.ipynb)  
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/your-repo/blob/main/notebooks/03_fit_reaction_time_distributions.ipynb)  
-  *Fit various statistical distributions to reaction time data.*
 
-- [04_plot_psychometric_function.ipynb](notebooks/04_plot_psychometric_function.ipynb)  
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/your-repo/blob/main/notebooks/04_plot_psychometric_function.ipynb)  
-  *Generate and fit psychometric curves from left/right responses.*
 
 > 💡 You can run all notebooks in Google Colab to visualize the figures used in the paper.
 
