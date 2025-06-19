@@ -18,9 +18,10 @@ The project includes:
 
 ## 📂 Repository Structure
 
-- `data/`: Contains experimental results and preprocessed MLDS outputs.
-- `images/`: Includes original natural images and their rotated or noise-corrupted versions.
-- `notebooks/`: Jupyter notebooks to explore the data and reproduce the main figures in the paper.
+- `mlds_rotation_results.csv`: MLDS results for rotational distortions using Maloney’s R package.
+- `mlds_gaussian_results.csv`: MLDS results for Gaussian noise distortions.
+- `rmse_consecutive_results.csv`: Accumulated RMSE between consecutive distortion levels for each image.
+- `images/`: Natural images and their distorted versions used in the experiment.
 
 ### 📁 Notebooks/
 
