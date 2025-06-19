@@ -21,18 +21,28 @@ The project includes:
 - `mlds_rotation_results.csv`: MLDS results for rotational distortions using Maloney’s R package.
 - `mlds_gaussian_results.csv`: MLDS results for Gaussian noise distortions.
 - `rmse_consecutive_results.csv`: Accumulated RMSE between consecutive distortion levels for each image.
+- `responses.csv`: Normalized MLDS response values per image, transformation, and distortion level.
 - `images/`: Natural images and their distorted versions used in the experiment.
 
-### 📁 Notebooks/
+## 📒 Notebooks
 
-- `plot_reaction_time_distributions.ipynb` · *Fit different statistical distributions (e.g., ex-Gaussian, log-normal) to the reaction time data.*
-- `plot_psychometric_curve.ipynb` · *Visualize and fit a sigmoid to the left/right responses across distortion differences.*
-- `plot_mlds_curves_by_image.ipynb` · *Show MLDS perceptual scales for each image and condition.*
-- `plot_mean_curve_and_fit.ipynb` · *Average perceptual curves across images and evaluate linear vs. saturating fits.*
-- `plot_rmse_scaled_curves.ipynb` · *Compare perceptual curves against accumulated RMSE for physically grounded interpretation.*
+- [01_plot_mlds_curves.ipynb](notebooks/01_plot_mlds_curves.ipynb)  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/your-repo/blob/main/notebooks/01_plot_mlds_curves.ipynb)  
+  *Plot MLDS perceptual curves and visualize inter-image variability.*
 
-🧪 You can run the notebooks to reproduce figures related to reaction times and MLDS perceptual scaling. You can select different images and distortion types to explore how humans perceive rotation in natural scenes.
+- [02_compare_rmse_and_perception.ipynb](notebooks/02_compare_rmse_and_perception.ipynb)  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/your-repo/blob/main/notebooks/02_compare_rmse_and_perception.ipynb)  
+  *Compare accumulated RMSE with perceptual scaling curves.*
 
+- [03_fit_reaction_time_distributions.ipynb](notebooks/03_fit_reaction_time_distributions.ipynb)  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/your-repo/blob/main/notebooks/03_fit_reaction_time_distributions.ipynb)  
+  *Fit various statistical distributions to reaction time data.*
+
+- [04_plot_psychometric_function.ipynb](notebooks/04_plot_psychometric_function.ipynb)  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/your-repo/blob/main/notebooks/04_plot_psychometric_function.ipynb)  
+  *Generate and fit psychometric curves from left/right responses.*
+
+> 💡 You can run all notebooks in Google Colab to visualize the figures used in the paper.
 
 
 
