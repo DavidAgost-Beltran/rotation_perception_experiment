@@ -14,17 +14,24 @@ The project includes:
 - Reaction time modeling using multiple distribution fits (Normal, Ex-Gaussian, Skew Normal, Log-Normal, etc.).
 - Visualization tools for generating all plots included in the paper.
 
-## Folder Structure
 
-📁 notebooks/
-├── mlds_curves_analysis.ipynb
-├── rmse_comparison.ipynb
-├── reaction_times_fitting.ipynb
-└── psychometric_bias_curve.ipynb
-📁 data/
-📁 figures/
-📄 requirements.txt
-📄 README.md
+
+## 📂 Repository Structure
+
+- `data/`: Contains experimental results and preprocessed MLDS outputs.
+- `images/`: Includes original natural images and their rotated or noise-corrupted versions.
+- `notebooks/`: Jupyter notebooks to explore the data and reproduce the main figures in the paper.
+
+### 📁 Notebooks/
+
+- `plot_reaction_time_distributions.ipynb` · *Fit different statistical distributions (e.g., ex-Gaussian, log-normal) to the reaction time data.*
+- `plot_psychometric_curve.ipynb` · *Visualize and fit a sigmoid to the left/right responses across distortion differences.*
+- `plot_mlds_curves_by_image.ipynb` · *Show MLDS perceptual scales for each image and condition.*
+- `plot_mean_curve_and_fit.ipynb` · *Average perceptual curves across images and evaluate linear vs. saturating fits.*
+- `plot_rmse_scaled_curves.ipynb` · *Compare perceptual curves against accumulated RMSE for physically grounded interpretation.*
+
+🧪 You can run the notebooks to reproduce figures related to reaction times and MLDS perceptual scaling. You can select different images and distortion types to explore how humans perceive rotation in natural scenes.
+
 
 
 
