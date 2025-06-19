@@ -26,11 +26,11 @@ The project includes:
 
 - `Notebooks/`: Jupyter notebooks to generate all figures and analyses.
 
-  - [01_plot_mlds_curves.ipynb](notebooks/01_plot_mlds_curves.ipynb)  
+  - [Plot_MLDS_curves.ipynb](Notebooks/Plot_MLDS_curves.ipynb)  
     [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1j0rvjP5NI0G8R_0hbER4fYd7FcN0gfoy#scrollTo=eGdv7Q_EoWB5)  
     *Plot MLDS perceptual curves and visualize inter-image variability.*
 
-  - [Reaction_Time_and_Psychometric_Curve_Analysis.ipynb](notebooks/02_Reaction_time_and_psychometric_curve_plots.ipynb)  
+  - [Reaction_Time_and_Psychometric_Curve_Analysis.ipynb](Notebooks/Reaction_Time_and_Psychometric_Curve_Analysis.ipynb)  
     [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mM3OcdC5-MD0HoFRLxlaFWBUFyVS79_q#scrollTo=Q451qSp-jP5u)  
     *Analyze reaction times and generate psychometric curves.*
 
