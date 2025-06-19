@@ -28,13 +28,6 @@ The project includes:
 
 
 
-## Dependencies
-
-Install required libraries using:
-
-```bash
-pip install -r requirements.txt
-
 ## Citation
 If you use this code or analysis in your research, please cite:
 
