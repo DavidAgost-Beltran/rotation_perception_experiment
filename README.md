@@ -8,22 +8,25 @@ You can execute the Jupyter notebooks to reproduce the figures shown in the pape
 
 The project includes:
 
-- Analysis of psychometric response curves derived from human judgments of rotated images.
-- Computation of perceptual scales and their relation to internal noise (σ).
-- Comparison between rotation and Gaussian noise using RMSE as a common physical distortion metric.
-- Reaction time modeling using multiple distribution fits (Normal, Ex-Gaussian, Skew Normal, Log-Normal, etc.).
-- Visualization tools for generating all plots included in the paper.
+-Plot of MLDS perceptual scales.
+
+-Fitting linear functions to the mean MLDS response curves.
+
+-Analysis of psychometric response curves derived from human judgments of rotated images.
+
+-Reaction time modeling using multiple distribution fits (Normal, Ex-Gaussian, Skew Normal, Log-Normal, etc.).
+
+-Analysis of the relationship between reaction time and task difficulty.
+
 
 
 
 ## 📂 Repository Structure
 
 - `mlds_rotation_results.csv`: MLDS results for rotational distortions using Maloney’s R package.
-- `mlds_gaussian_results.csv`: MLDS results for Gaussian noise distortions.
-- `rmse_consecutive_results.csv`: Accumulated RMSE between consecutive distortion levels for each image.
-- `responses.csv`: Normalized MLDS response values per image, transformation, and distortion level.
-- `images/`: Natural images and their distorted versions used in the experiment.
-
+- `mlds_gaussian_results.csv`: MLDS results for Gaussian noise distortions using Maloney’s R package.
+- `rmse_consecutive_results.csv`: Accumulated RMSE across distortion levels, summing differences between consecutive levels for each image.
+- `responses.csv`: Perceptual responses from subjects participating in the experiment.
 - `Notebooks/`: Jupyter notebooks to generate all figures and analyses.
 
   - [Plot_MLDS_curves.ipynb](Notebooks/Plot_MLDS_curves.ipynb)  
