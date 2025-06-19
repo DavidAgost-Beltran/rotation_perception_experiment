@@ -30,11 +30,11 @@ The project includes:
 - `Notebooks/`: Jupyter notebooks to generate all figures and analyses.
 
   - [Plot_MLDS_curves.ipynb](Notebooks/Plot_MLDS_curves.ipynb)  
-    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1j0rvjP5NI0G8R_0hbER4fYd7FcN0gfoy#scrollTo=eGdv7Q_EoWB5)  
+    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1j0rvjP5NI0G8R_0hbER4fYd7FcN0gfoy)  
     *Plot MLDS perceptual curves and visualize inter-image variability.*
 
   - [Reaction_Time_and_Psychometric_Curve_Analysis.ipynb](Notebooks/Reaction_Time_and_Psychometric_Curve_Analysis.ipynb)  
-    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mM3OcdC5-MD0HoFRLxlaFWBUFyVS79_q#scrollTo=Q451qSp-jP5u)  
+    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mM3OcdC5-MD0HoFRLxlaFWBUFyVS79_q)  
     *Analyze reaction times and generate psychometric curves.*
 
 > 💡 You can run all notebooks in Google Colab to reproduce the figures used in the paper.
