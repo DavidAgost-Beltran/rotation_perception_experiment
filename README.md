@@ -24,7 +24,8 @@ The project includes:
 - `responses.csv`: Normalized MLDS response values per image, transformation, and distortion level.
 - `images/`: Natural images and their distorted versions used in the experiment.
 
-### 📒 Notebooks
+### Notebooks/:
+
 
 - [01_plot_mlds_curves.ipynb](notebooks/01_plot_mlds_curves.ipynb)  
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1j0rvjP5NI0G8R_0hbER4fYd7FcN0gfoy#scrollTo=eGdv7Q_EoWB5)  
