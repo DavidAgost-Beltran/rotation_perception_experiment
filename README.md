@@ -23,8 +23,8 @@ The project includes:
 
 ## 📂 Repository Structure
 
-- `mlds_rotation_results.csv`: MLDS results for rotational distortions using [Maloney’s Maximum Likelihood Difference Scaling in R](https://cran.r-project.org/web/packages/MLDS/vignettes/MLDS.pdf).
-- `mlds_gaussian_results.csv`: MLDS results for Gaussian noise distortions using [Maloney’s Maximum Likelihood Difference Scaling in R](https://cran.r-project.org/web/packages/MLDS/vignettes/MLDS.pdf).
+- `mlds_rotation_results.csv`: MLDS results for rotational distortions using Maloney’s[ Maximum Likelihood Difference Scaling in R](https://cran.r-project.org/web/packages/MLDS/vignettes/MLDS.pdf).
+- `mlds_gaussian_results.csv`: MLDS results for Gaussian noise distortions using Maloney’s[ Maximum Likelihood Difference Scaling in R](https://cran.r-project.org/web/packages/MLDS/vignettes/MLDS.pdf).
 - `rmse_consecutive_results.csv`: Accumulated RMSE across distortion levels, summing differences between consecutive levels for each image.
 - `responses.csv`: Perceptual responses from subjects participating in the experiment.
 - `Notebooks/`: Jupyter notebooks to generate all figures and analyses.
