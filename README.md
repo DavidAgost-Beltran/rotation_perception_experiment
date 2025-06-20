@@ -1,6 +1,6 @@
 # Perceptual Sensitivity to Rotational Differences in Natural Images
 
-This repository contains the code and data analyses for the paper **"Perceptual Sensitivity to Rotational Differences in Natural Images"**. The study investigates how humans perceive and discriminate angular differences in natural images using psychophysical experiments and perceptual scaling methods (MLDS).
+This repository contains the code and data analyses for the paper **"Perceptual Sensitivity to Rotational Differences in Natural Images"**. The study investigates how humans perceive and discriminate angular differences and Gaussian noise differences in natural images using psychophysical experiments and perceptual scaling methods (MLDS).
 
 You can execute the Jupyter notebooks to reproduce the figures shown in the paper, including reaction time distributions, psychometric bias curves, and MLDS perceptual scales for selected images.
 
