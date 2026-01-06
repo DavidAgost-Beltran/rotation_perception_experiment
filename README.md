@@ -45,7 +45,7 @@ The project includes:
 ## Citation
 If you use this code or analysis in your research, please cite:
 
-Agost Beltrán, D. (2025). Perceptual Sensitivity to Rotational Differences in Natural Images. [AIPR2025].
+Agost Beltrán, D. (2025). Perceptual Sensitivity to Rotation and Noise in Natural Images.[ICICT26].
 
 
 
