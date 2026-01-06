@@ -1,4 +1,4 @@
-# Perceptual Sensitivity to Rotational Differences in Natural Images
+# Perceptual Sensitivity to Rotation and Noise in Natural Images
 
 This repository contains the code and data analyses for the paper **"Perceptual Sensitivity to Rotation and Noise in Natural Images"**. The study investigates how humans perceive and discriminate angular differences and Gaussian noise differences in natural images using psychophysical experiments and perceptual scaling methods (MLDS).
 
